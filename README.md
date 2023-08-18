@@ -1,2 +1,2 @@
-# mastermind-gfn
-A Generative Flow Network trained to play the game Mastermind
+# Mastermind RL
+An RL agent trained to play the game Mastermind
